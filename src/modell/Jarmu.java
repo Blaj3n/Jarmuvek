@@ -30,4 +30,9 @@ public abstract class Jarmu {
         else()
     
     }
+
+    public boolean isBeinditva() {
+        return beinditva;
+    }
+    
 }
